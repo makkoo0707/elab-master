@@ -1,0 +1,1 @@
+1. elab_adc_set_factor函数的使用，会导致进入HardFault，原因未知。
